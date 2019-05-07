@@ -1,0 +1,6 @@
+C:\Users\Brenda\source\repos\Proyecto\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Brenda\source\repos\Proyecto\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Brenda\source\repos\Proyecto\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Brenda\source\repos\Proyecto\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\source\repos\Proyecto\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Brenda\source\repos\Proyecto\CapaEntidades\obj\Debug\CapaEntidades.pdb
